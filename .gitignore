@@ -1,0 +1,13 @@
+# Temporary editor files
+*~
+*.swp
+*.swo
+
+# Temporary system files
+.DS_Store
+Thumbs.db
+
+# 
+*.log
+*.out
+*.tmp
